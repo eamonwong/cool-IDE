@@ -8,6 +8,4 @@ My Cool Python IDE is a simple Integrated Development Environment (IDE) for edit
 - **Save and Save As:** Save the code to a file, supporting both new and existing files.
 - **Run Python Script:** Execute the Python script and view the output within the IDE.
 
-[cool ide test.mov.zip](https://github.com/eamonwong/cool-IDE/files/13366866/cool.ide.test.mov.zip)
-
-
+https://github.com/eamonwong/cool-IDE/assets/75913022/9329532b-945e-495c-9796-255c21e80669

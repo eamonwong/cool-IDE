@@ -1,4 +1,4 @@
-# cool-IDE
+# Cool IDE
 
 My Cool Python IDE is a simple Integrated Development Environment (IDE) for editing, saving, and running Python scripts. It provides a graphical user interface built using the Tkinter library and allows users to perform common code-related tasks.
 
